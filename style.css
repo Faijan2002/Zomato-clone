@@ -1,0 +1,20 @@
+.navbar {
+  background-color: lightcoral;
+}
+
+.mybtn {
+  background-color: white;
+}
+
+.mybtn:hover {
+  background-color: lightpink;
+}
+/*# sourceMappingURL=style.css.map */
+.footer{
+  background-color: lightcoral;
+  color: rgb(255, 255, 255);
+  height: 80px;
+  font-size: large;
+
+
+}
